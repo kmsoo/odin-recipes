@@ -1,0 +1,16 @@
+/*  */
+body {
+  font-family: Verdana, Arial;
+  font-size: 16px;
+}
+
+/* index.html */
+h1 {
+  text-align: center;
+}
+
+/* recipes */
+img {
+  height: auto;
+  width: 300px;
+}
